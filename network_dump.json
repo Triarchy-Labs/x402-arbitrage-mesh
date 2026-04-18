@@ -1,0 +1,362 @@
+[
+  {
+    "url": "https://fine-n7vljkp34f.peachworlds.com/",
+    "size": "0",
+    "type": "text/html"
+  },
+  {
+    "url": "https://fine-n7vljkp34f.peachworlds.com/styles.css",
+    "size": "0",
+    "type": "text/css"
+  },
+  {
+    "url": "https://fine-n7vljkp34f.peachworlds.com/website-base.css",
+    "size": "0",
+    "type": "text/css"
+  },
+  {
+    "url": "https://fine-n7vljkp34f.peachworlds.com/scene-state/c847acdb-8b9c-4aa3-a00a-5c381ed5cf84.json",
+    "size": "0",
+    "type": "application/json"
+  },
+  {
+    "url": "https://fine-n7vljkp34f.peachworlds.com/ui-state.json",
+    "size": "0",
+    "type": "application/json"
+  },
+  {
+    "url": "https://fine-n7vljkp34f.peachworlds.com/script.js",
+    "size": "0",
+    "type": "text/javascript"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css?family=DM%20Sans:100,200,300,400,500,600,700,800,900&display=swap",
+    "size": "0",
+    "type": "text/css; charset=utf-8"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css?family=Inter:100,200,300,400,500,600,700,800,900&display=swap",
+    "size": "0",
+    "type": "text/css; charset=utf-8"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/bbfefb66-ed48-4922-a53d-962ea2c48f31/tech-ring-b-optimize.glb",
+    "size": "25260",
+    "type": "model/gltf-binary"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/0d886d8d-4920-48dd-add5-92b11b36040b/rock-optimzied.glb",
+    "size": "8515968",
+    "type": "model/gltf-binary"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/5e92921b-6c13-418d-9b08-2463b0032069/tech-rings-v2-optimize.glb",
+    "size": "30196",
+    "type": "model/gltf-binary"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/dcf543a9-89bd-4318-a90a-466ad4f1856d/group-1597882162.svg",
+    "size": "500",
+    "type": "image/svg+xml"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/24690d6e-5739-4898-a4a5-31ff4053f79b/pw-badge-dark.svg",
+    "size": "0",
+    "type": "image/svg+xml"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/5532cd64-2dcd-4655-a98f-672257c0d296/channel-streamline-unicons.svg",
+    "size": "0",
+    "type": "image/svg+xml"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/ee0b2d7c-a70d-45e4-be8c-66d9644bfdb1/tech-ring-a-optimize.glb",
+    "size": "25260",
+    "type": "model/gltf-binary"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/c1ae5b55-38e7-4e7e-8418-e52058aa6162/background-environment.png",
+    "size": "15288",
+    "type": "image/png"
+  },
+  {
+    "url": "https://files.peachworlds.com/static/hdri/indoor/studio_small_08_2k.hdr",
+    "size": "386940",
+    "type": "binary/octet-stream"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/d8fe3026-acd2-4602-93c3-2d163f1b731b/environment-prism.png",
+    "size": "22790",
+    "type": "image/png"
+  },
+  {
+    "url": "https://files.peachworlds.com/static/hdri/indoor/studio_small_07_2k.hdr",
+    "size": "416172",
+    "type": "binary/octet-stream"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/9e7287d9-adc6-42b6-8803-770d923f6a00/rocks08-diffuse.jpg",
+    "size": "1768958",
+    "type": "image/jpeg"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/235368c1-c0a0-42a6-b227-8870556c6c9f/rocks08-normal-opengl.jpg",
+    "size": "1247024",
+    "type": "image/jpeg"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/6a6ff520-70d6-470b-8301-0f7af8abf000/plastic15-glossiness.jpg",
+    "size": "1312621",
+    "type": "image/jpeg"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/3f8d9d90-8bdb-45e1-b353-c290fd345c5b/gun-metal-30-04-roughness.jpg",
+    "size": "87049",
+    "type": "image/jpeg"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/07de415f-6033-43bb-8d42-99c5a342369f/carbon-fibre-roughness.jpg",
+    "size": "449363",
+    "type": "image/jpeg"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/8862680a-275d-4d43-9523-f6299d997e59/image-172.jpg",
+    "size": "314264",
+    "type": "image/jpeg"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/b98bc263-ffdd-462c-b7b3-482aeef8e7c4/carbon-fibre-normal.jpg",
+    "size": "721072",
+    "type": "image/jpeg"
+  },
+  {
+    "url": "https://files.peachworlds.com/static/hdri/indoor/small_empty_room_1_2k.hdr",
+    "size": "393445",
+    "type": "binary/octet-stream"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/d8621ee3-7779-44dc-806b-37838ea5feae/clay-rough-roughness.png",
+    "size": "10503105",
+    "type": "image/png"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/663a79c4-6267-4978-ba0a-461a74f29cce/plastic15-normal-opengl.jpg",
+    "size": "1416216",
+    "type": "image/jpeg"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/96ad957f-a50e-4e96-8d5d-818cf5eb0508/clay-rough-normal.png",
+    "size": "27086660",
+    "type": "image/png"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/1d74a32a-3198-4b61-b3cc-7ab8b912440b/glass-frosted-001-normal.jpg",
+    "size": "42693",
+    "type": "image/jpeg"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/7dc1d46e-4bef-4f84-96ef-e7b69eaa0eb1/sand02-basecolor.jpg",
+    "size": "1393710",
+    "type": "image/jpeg"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/8fc24c5e-02db-4670-ae98-7f59a64844ed/surface-imperfection-seamless-tileable-shabby-texture-surface-imperfection-seamless-tileable-shabby-texture-can-be-used-as-223348118-1-.webp",
+    "size": "146054",
+    "type": "image/webp"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/36b60d88-0a21-465d-a366-9e843a324c77/sand02-normal.jpg",
+    "size": "862477",
+    "type": "image/jpeg"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/793f9595-57cb-4024-8a69-2bf400b07368/sand02-roughness.jpg",
+    "size": "1266387",
+    "type": "image/jpeg"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/040ecc22-926f-4745-ada1-2fbbdcaa2139/defaultmaterial-normal-1001.jpg",
+    "size": "722193",
+    "type": "image/jpeg"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/04bedea5-1ee9-45e8-938b-ef26a3188803/scratched-metal-26-35-glossiness.jpg",
+    "size": "154827",
+    "type": "image/jpeg"
+  },
+  {
+    "url": "https://fine-n7vljkp34f.peachworlds.com/928.script.js",
+    "size": "0",
+    "type": "text/javascript"
+  },
+  {
+    "url": "https://fine-n7vljkp34f.peachworlds.com/191.script.js",
+    "size": "0",
+    "type": "text/javascript"
+  },
+  {
+    "url": "https://fine-n7vljkp34f.peachworlds.com/658.script.js",
+    "size": "0",
+    "type": "text/javascript"
+  },
+  {
+    "url": "https://fine-n7vljkp34f.peachworlds.com/720.script.js",
+    "size": "0",
+    "type": "text/javascript"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/630685d1-2cff-4024-9a95-e2ee6577152c/helvetica-now-display-regular.ttf",
+    "size": "0",
+    "type": "font/ttf"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/010e7334-dcb4-4039-b33a-6f9f8c278def/68832fb0ffba9b1995adac75-helveticanowdisplay-medium.ttf",
+    "size": "0",
+    "type": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2",
+    "size": "36932",
+    "type": "font/woff2"
+  },
+  {
+    "url": "blob:https://fine-n7vljkp34f.peachworlds.com/e807920f-0944-4f47-9467-247f7fc51034",
+    "size": "7005",
+    "type": "application/json"
+  },
+  {
+    "url": "blob:https://fine-n7vljkp34f.peachworlds.com/669ece15-7e86-47c4-a654-4c622781ce62",
+    "size": "88956",
+    "type": "application/json"
+  },
+  {
+    "url": "https://files.peachworlds.com/static/hdri/indoor/studio_small_07_2k.hdr",
+    "size": "416172",
+    "type": "binary/octet-stream"
+  },
+  {
+    "url": "https://files.peachworlds.com/static/hdri/indoor/small_empty_room_1_2k.hdr",
+    "size": "393445",
+    "type": "binary/octet-stream"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/12c24730-4570-45dc-b662-dc90d7574fd3/asterisk-streamline-unicons.svg",
+    "size": "0",
+    "type": "image/svg+xml"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/c8b7a086-e88c-4528-af9a-bd3fb97723d5/border-vertical-streamline-unicons.svg",
+    "size": "0",
+    "type": "image/svg+xml"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/2feb1529-00a0-473a-a5d7-19a0b9aea550/div-framer-1lv732o-4.svg",
+    "size": "0",
+    "type": "image/svg+xml"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/7c2e6cc7-bb3d-4bc9-a98d-f1083a2260e8/group-1597882163.svg",
+    "size": "534",
+    "type": "image/svg+xml"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/51d8f557-f4d2-4e09-b068-09f8b4a0ec73/div-framer-1lv732o-3.svg",
+    "size": "0",
+    "type": "image/svg+xml"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/4c8aeaa8-a292-44da-bd4c-453338a9483d/div-framer-1lv732o-2.svg",
+    "size": "0",
+    "type": "image/svg+xml"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/028409a2-9c62-4337-8f14-f82a6ac5f70b/div-framer-1lv732o-.svg",
+    "size": "0",
+    "type": "image/svg+xml"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/9c842e31-3dc2-42a4-8a8a-d2d75dc4c34f/div-framer-1lv732o-1-1.svg",
+    "size": "0",
+    "type": "image/svg+xml"
+  },
+  {
+    "url": "https://files.peachworlds.com/website/4681366d-ff7e-4ccf-9e87-e75f9905a916/div-framer-1lv732o-5.svg",
+    "size": "0",
+    "type": "image/svg+xml"
+  },
+  {
+    "url": "https://fine-n7vljkp34f.peachworlds.com/draco/draco_decoder.wasm",
+    "size": "0",
+    "type": "application/wasm"
+  },
+  {
+    "url": "https://files.peachworlds.com/static/hdri/indoor/studio_small_08_2k.hdr",
+    "size": "386940",
+    "type": "binary/octet-stream"
+  },
+  {
+    "url": "https://fine-n7vljkp34f.peachworlds.com/draco/draco_wasm_wrapper.js",
+    "size": "0",
+    "type": "text/javascript"
+  },
+  {
+    "url": "blob:https://fine-n7vljkp34f.peachworlds.com/6533cb93-565e-421e-96e6-57c7bd63837b",
+    "size": "60157",
+    "type": ""
+  },
+  {
+    "url": "blob:https://fine-n7vljkp34f.peachworlds.com/6533cb93-565e-421e-96e6-57c7bd63837b",
+    "size": "60157",
+    "type": ""
+  },
+  {
+    "url": "blob:https://fine-n7vljkp34f.peachworlds.com/6533cb93-565e-421e-96e6-57c7bd63837b",
+    "size": "60157",
+    "type": ""
+  },
+  {
+    "url": "blob:https://fine-n7vljkp34f.peachworlds.com/1db4183a-1eb2-41c3-a8d3-b6c0e26bd03e",
+    "size": "3867663",
+    "type": "image/ktx2"
+  },
+  {
+    "url": "blob:https://fine-n7vljkp34f.peachworlds.com/2b47aa3a-8979-45dd-a483-df99b1af920d",
+    "size": "77981",
+    "type": "image/ktx2"
+  },
+  {
+    "url": "blob:https://fine-n7vljkp34f.peachworlds.com/77359c32-4639-4069-b2d8-f1a7d11d6650",
+    "size": "4288352",
+    "type": "image/ktx2"
+  },
+  {
+    "url": "https://pwb-uploads-production.s3.amazonaws.com/static/pw_promotional_badge.png",
+    "size": "15067",
+    "type": "image/png"
+  },
+  {
+    "url": "https://fine-n7vljkp34f.peachworlds.com/basis/basis_transcoder.js",
+    "size": "0",
+    "type": "text/javascript"
+  },
+  {
+    "url": "https://fine-n7vljkp34f.peachworlds.com/basis/basis_transcoder.wasm",
+    "size": "0",
+    "type": "application/wasm"
+  },
+  {
+    "url": "blob:https://fine-n7vljkp34f.peachworlds.com/2a728341-cb5c-4cac-867c-3db3b043d406",
+    "size": "34907",
+    "type": ""
+  },
+  {
+    "url": "blob:https://fine-n7vljkp34f.peachworlds.com/2a728341-cb5c-4cac-867c-3db3b043d406",
+    "size": "34907",
+    "type": ""
+  },
+  {
+    "url": "blob:https://fine-n7vljkp34f.peachworlds.com/2a728341-cb5c-4cac-867c-3db3b043d406",
+    "size": "34907",
+    "type": ""
+  }
+]
